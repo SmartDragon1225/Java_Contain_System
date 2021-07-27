@@ -1,9 +1,9 @@
-package com.wu.controller;
+package com.tian.controller;
 
-import com.wu.dao.DepartmentDao;
-import com.wu.dao.EmployeeDao;
-import com.wu.pojo.Department;
-import com.wu.pojo.Employee;
+import com.tian.dao.DepartmentDao;
+import com.tian.dao.EmployeeDao;
+import com.tian.pojo.Department;
+import com.tian.pojo.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

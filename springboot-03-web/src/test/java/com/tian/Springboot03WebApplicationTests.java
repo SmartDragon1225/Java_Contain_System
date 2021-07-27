@@ -1,7 +1,7 @@
-package com.wu;
+package com.tian;
 
-import com.wu.dao.DepartmentDao;
-import com.wu.pojo.Department;
+import com.tian.dao.DepartmentDao;
+import com.tian.pojo.Department;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

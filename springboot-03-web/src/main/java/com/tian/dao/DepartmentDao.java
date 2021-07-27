@@ -1,8 +1,8 @@
-package com.wu.dao;
+package com.tian.dao;
 
 //部门dao
 
-import com.wu.pojo.Department;
+import com.tian.pojo.Department;
 import org.springframework.stereotype.Repository;
 
 import java.util.Collection;

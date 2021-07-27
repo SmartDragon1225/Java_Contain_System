@@ -1,7 +1,7 @@
-package com.wu.dao;
+package com.tian.dao;
 
-import com.wu.pojo.Department;
-import com.wu.pojo.Employee;
+import com.tian.pojo.Department;
+import com.tian.pojo.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
